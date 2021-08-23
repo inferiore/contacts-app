@@ -17,3 +17,7 @@ En la segunda terminal mantenemos el worker para procesar job
  
 
 [Ejemplo de formato CSV ](https://github.com/inferiore/contacts-app/blob/master/contacts%20-%20%20example.csv) 
+
+Usuario:camila@gmail.com
+Pass: 123
+
